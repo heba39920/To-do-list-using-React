@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/heba39920/To-do-list-using-React.git/static/css/main.05531e4a.css",
+    "main.js": "/heba39920/To-do-list-using-React.git/static/js/main.72b12afe.js",
+    "static/js/453.59bb3b6d.chunk.js": "/heba39920/To-do-list-using-React.git/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/heba39920/To-do-list-using-React.git/index.html",
+    "main.05531e4a.css.map": "/heba39920/To-do-list-using-React.git/static/css/main.05531e4a.css.map",
+    "main.72b12afe.js.map": "/heba39920/To-do-list-using-React.git/static/js/main.72b12afe.js.map",
+    "453.59bb3b6d.chunk.js.map": "/heba39920/To-do-list-using-React.git/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05531e4a.css",
+    "static/js/main.72b12afe.js"
+  ]
+}
