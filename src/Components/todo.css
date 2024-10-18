@@ -1,0 +1,132 @@
+/* Start Global Rules */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /* end Global Rules */
+   /* start local rules */
+     body{
+        text-transform: capitalize;
+        background-color: rgb(243, 105, 201);
+        font-family: "Inter", sans-serif;
+        
+     }
+     button{
+        text-transform: capitalize;
+       
+     }
+     ul{
+      padding: 0;
+      margin: 0;
+     
+     }
+ 
+     li{
+      list-style: none;
+     }
+    /* end local rules */
+   /* rules */
+   .list{
+    padding-block: 80px;
+   
+ 
+ display: flex; 
+ justify-content: center;
+ align-items: center;
+ }
+h1{
+    text-align: center; 
+    font-size: 4rem;
+    margin-bottom: 3rem;
+}
+.list-body{
+  padding: 50px;
+ background-color: #fff;
+ width: 50%;
+ border-radius: 100px 10px;
+
+}
+
+.form{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+input{
+    font-size: 1.2rem;
+    padding:1rem ;
+    width: 100%;
+border-radius: 50px;
+margin-inline: 20px;
+}
+input::placeholder{
+    font-family: "Press Start 2P", system-ui;
+}
+
+.add{
+font-family: "Press Start 2P", system-ui;
+ background-color:  rgb(243, 105, 201);
+ text-align: center;
+ color: #fff;
+ border-radius: 50px;
+ border: none;
+  padding: 10px;
+ font-size: 16px;
+ cursor: pointer;
+}
+
+
+.list-menu{
+ border-radius: 50px 5px;
+  margin-top: 30px;  
+ color: #fff;
+ background-color: rgb(243, 105, 201);
+ padding: 50px;
+
+}
+
+
+
+.list-order{
+ margin: 30px 0;
+ background-color: #fff;
+ color: rgb(243, 105, 201) ;
+ border-radius: 20px;
+padding: 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.icon{
+    cursor: pointer;
+    color: rgb(243, 105, 201) ;
+    padding: .5rem;
+    background-color: #fff;
+    border: none;
+    font-size: 1rem;
+}
+/* .btn2{
+ border: none;
+ background-color: transparent;
+ color: rgb(243, 105, 201) ;
+}
+.btn3{
+color: #fff;
+background-color: rgb(243, 105, 201);
+ border: none;
+ padding:5px 15px;
+ border-radius: 50px;
+ margin-right: 10px;
+ 
+}
+
+
+.btn4{
+ background-color:rgb(243, 105, 201) ;
+ color: #fff;
+ padding: 6px 10px;
+ width: 20%;
+ margin-top: 30px;
+} */
+
