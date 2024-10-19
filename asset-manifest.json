@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/heba39920/To-do-list-using-React.git/static/css/main.05531e4a.css",
-    "main.js": "/heba39920/To-do-list-using-React.git/static/js/main.72b12afe.js",
-    "static/js/453.59bb3b6d.chunk.js": "/heba39920/To-do-list-using-React.git/static/js/453.59bb3b6d.chunk.js",
-    "index.html": "/heba39920/To-do-list-using-React.git/index.html",
-    "main.05531e4a.css.map": "/heba39920/To-do-list-using-React.git/static/css/main.05531e4a.css.map",
-    "main.72b12afe.js.map": "/heba39920/To-do-list-using-React.git/static/js/main.72b12afe.js.map",
-    "453.59bb3b6d.chunk.js.map": "/heba39920/To-do-list-using-React.git/static/js/453.59bb3b6d.chunk.js.map"
+    "main.css": "/To-do-list-using-React/static/css/main.05531e4a.css",
+    "main.js": "/To-do-list-using-React/static/js/main.5e9e703d.js",
+    "static/js/453.59bb3b6d.chunk.js": "/To-do-list-using-React/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/To-do-list-using-React/index.html",
+    "main.05531e4a.css.map": "/To-do-list-using-React/static/css/main.05531e4a.css.map",
+    "main.5e9e703d.js.map": "/To-do-list-using-React/static/js/main.5e9e703d.js.map",
+    "453.59bb3b6d.chunk.js.map": "/To-do-list-using-React/static/js/453.59bb3b6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05531e4a.css",
-    "static/js/main.72b12afe.js"
+    "static/js/main.5e9e703d.js"
   ]
 }
